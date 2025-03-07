@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My-First-Application</string>
+
+    <string name="fileprovider">com.example.my_first_application.fileprovider</string>
+</resources>
